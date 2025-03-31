@@ -1,4 +1,4 @@
-# Projetos de Deep Learning e Visão Computacional
+<!-- # Projetos de Deep Learning e Visão Computacional
 
 Este repositório contém dois projetos principais, cada um abordando um aspecto diferente do aprendizado de máquina e da visão computacional. 
 
@@ -38,4 +38,4 @@ Caso queira executar o modelo mais robusto e exato na identificação, baixe os 
 
 ---
 
-Sinta-se à vontade para contribuir com este repositório através de pull requests. Para maiores dúvidas ou sugestões, abra uma issue ou entre em contato.
+Sinta-se à vontade para contribuir com este repositório através de pull requests. Para maiores dúvidas ou sugestões, abra uma issue ou entre em contato. -->
